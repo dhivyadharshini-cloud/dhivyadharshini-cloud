@@ -1,10 +1,17 @@
 <h1 align="center">Hi there, I'm Dhivyadharshini M 👋</h1>
-<h3 align="center">Final Year Biomedical Engineering Student | AI & ML Enthusiast | Embedded Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Biomedical+Engineering+Student;AI+%26+ML+Enthusiast;Embedded+Systems+Builder;Turning+Ideas+Into+Working+Prototypes" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhivyadharshini-m-30040a330/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dhivyadharshini9042@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Dhivya_1224/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhivyadharshini-cloud&label=Profile%20Views&color=6C63FF&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -78,6 +85,35 @@ Hardware obstacle-detection device for visually impaired users using ultrasonic 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyadharshini-cloud&layout=compact&theme=radical" width="50%" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhivyadharshini-cloud&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📊 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivyadharshini-cloud&theme=react-dark" width="90%" />
+</p>
+
+---
+
+### 🎓 Certifications
+
+- ✅ AI for Beginners — Infosys Springboard
+- ✅ Java for Beginners — Coursera
+- ✅ MySQL — Infosys Springboard
+
+### 🏅 Achievements
+
+- 🥇 1st Appreciation Prize — Hackxtreme 24-Hour Hackathon, Hyderabad (Mar 2026)
+- 🇮🇳 Participant — Smart India Hackathon (SIH), Internal Round
 
 ---
 
