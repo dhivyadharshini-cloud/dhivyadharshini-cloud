@@ -16,6 +16,16 @@
 
 ---
 
+```bash
+> whoami --dhivyadharshini
+Final Year Biomedical Engineering Student
+AI & ML Enthusiast | Embedded Systems Builder
+Location: Cuddalore, Tamil Nadu, India
+CGPA: 8.74 | Status: Open to Internships
+```
+
+---
+
 ### 🚀 About Me
 
 - 🎓 Final year **B.E. Biomedical Engineering** student at V.S.B. Engineering College, Karur (CGPA: 8.74)
@@ -75,34 +85,50 @@ Hardware obstacle-detection device for visually impaired users using ultrasonic 
 
 ---
 
-### 📈 GitHub Stats
+```bash
+> stats --global
+```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhivyadharshini-cloud&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivyadharshini-cloud&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhivyadharshini-cloud&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhivyadharshini-cloud&theme=chartreuse-dark&hide_border=true" width="48%" />
 </p>
 
+```bash
+> languages --breakdown
+```
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyadharshini-cloud&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyadharshini-cloud&layout=pie&theme=chartreuse-dark&hide_border=true" width="45%" />
+</p>
+
+```bash
+> trophy-case --list
+```
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhivyadharshini-cloud&theme=chartreuse-dark&no-frame=true&row=1&column=6" />
+</p>
+
+```bash
+> activity-graph --timeline
+```
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivyadharshini-cloud&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+```bash
+> contribution --summary
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhivyadharshini-cloud&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&hide=stars,issues" width="60%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhivyadharshini-cloud&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 📊 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhivyadharshini-cloud&theme=react-dark" width="90%" />
-</p>
-
----
 
 ### 🎓 Certifications
 
