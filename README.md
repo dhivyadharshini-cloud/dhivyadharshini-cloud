@@ -17,7 +17,7 @@
 ---
 
 ```bash
-> whoami --dhivyadharshini
+>  --dhivyadharshini
 Final Year Biomedical Engineering Student
 AI & ML Enthusiast | Embedded Systems Builder
 Location: Cuddalore, Tamil Nadu, India
